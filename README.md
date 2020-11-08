@@ -74,6 +74,10 @@ Na pasta do servidor, execute para testar:
 yarn test
 ```
 
+## Dificuldades
+
+A dificuldade foi em relação aos testes do Frontend, tentei seguir o tutorial da página do React mas os testes deram errado. Dessa forma, preferi não adicionar os arquivos de testes no projeto.
+
 ## Author
 
 👤 **Gabriel Mariano Costa**
