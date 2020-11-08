@@ -16,7 +16,8 @@
 Clone o projeto e vá para a pasta raiz do projeto:
 
 ```
-git clone
+git clone https://github.com/gabirum/CRUDProdutos.git
+cd CRUDProdutos
 ```
 
 ### Executando Backend
@@ -61,7 +62,7 @@ Execute a aplicação:
 yarn start
 ```
 
-Pronto, a aplicação irá abrir em seu navegador. Caso não abra automaticamente acesse <http://localhost:3000>
+Pronto, a aplicação irá abrir em seu navegador. Caso não abra automaticamente acesse <http://localhost:3000/>
 
 ## Testes
 
