@@ -1,4 +1,4 @@
-# CRUD de produtos 👋
+# CRUD de produtos
 
 > Um CRUD para cadastro de produtos
 
